@@ -5,12 +5,10 @@ Personal site — https://morsheded.github.io
 Single static page, no build step and no framework. Edit `index.html`, push to `main`,
 Pages redeploys automatically.
 
-## Before it's finished
+## Contact
 
-Replace the two placeholders in `index.html`:
-
-- `REPLACE_EMAIL` — contact address (appears twice: the `mailto:` and the visible link text)
-- `REPLACE_LINKEDIN` — LinkedIn profile slug
+LinkedIn is the primary contact on the page. There is deliberately no email address —
+add one to the contact section if that changes.
 
 ## How it works
 
